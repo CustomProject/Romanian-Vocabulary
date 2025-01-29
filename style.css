@@ -1,0 +1,55 @@
+html{
+    background-color: rgb(169, 167, 167);
+}
+
+#red{
+    color: red;
+}
+
+#blue{
+    color:blue;
+}
+
+#orange{
+    color:orange;
+}
+
+#green{
+    color: green;
+}
+
+#yellow{
+    color: yellow;
+}
+
+.color-title{
+    font-weight: normal;
+}
+img[alt="red"]{
+    height: 200px;
+    width: 200px;
+}
+img[alt="blue"]{
+    height: 200px;
+    width: 200px;
+}
+img[alt="orange"]{
+    height: 200px;
+    width: 200px;
+}
+img[alt="green"]{
+    height: 200px;
+    width: 200px;
+}
+img[alt="yellow"]{
+    height: 200px;
+    width: 200px;
+}
+
+h1{
+    text-align: center;
+}
+
+#description{
+    text-align: center;
+}
